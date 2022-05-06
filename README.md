@@ -9,3 +9,8 @@
   <li>Programming</li>
 </ul>
 
+<h1>Scoops's Interests: </h1>
+<ul>
+  <li>Si MArk</li>
+  <li>Secret</li>
+</ul>
