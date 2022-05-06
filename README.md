@@ -6,6 +6,6 @@
 <h1>Anakin's Interests: </h1>
 <ul>
   <li>Cooking</li>
-  <li>Proggraming</li>
+  <li>Programming</li>
 </ul>
 
