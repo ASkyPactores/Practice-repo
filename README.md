@@ -9,3 +9,8 @@
   <li>Programming</li>
 </ul>
 
+<h1>Scoops' Interests: </h1>
+<ul>
+  <li>Cooking</li>
+  <li>Programming</li>
+</ul>
